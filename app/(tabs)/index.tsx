@@ -13,6 +13,7 @@ import { Image } from "expo-image";
 export default function HomeScreen() {
   return (
     <SafeAreaView style={tw`bg-white h-full`}>
+      
       <View style={tw`p-5`}>
         <Image
           style={{
